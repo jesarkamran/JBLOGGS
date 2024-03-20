@@ -1,6 +1,5 @@
 # JBLOGGS
-
-This README file provides an overview of JBLOGGS, a web application for creating and reading blog posts, built as a terminal project for the Web Technologies subject. The project utilizes the Laravel PHP framework.
+JBLOGGS, a web application for creating and reading blog posts, built as a terminal project for the Web Technologies subject. The project utilizes the Laravel PHP framework.
 
 **Project Description:**
 
@@ -13,7 +12,6 @@ JBLOGGS empowers users to publish and share their thoughts, ideas, and stories w
 * **Content Management:** Enables users to manage their own blog posts (edit, delete, etc.).
 * **Post Listing (if applicable):** Presents a list of all blog posts for users to browse.
 * **Search Functionality (if applicable):** Offers the ability to search for specific blog posts.
-* **(Other features you've implemented)**
 
 **Technology Stack:**
 
