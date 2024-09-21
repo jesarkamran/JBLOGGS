@@ -25,10 +25,6 @@ JBLOGGS empowers users to publish and share their thoughts, ideas, and stories w
 3. (Optional) Set up a database connection (refer to Laravel documentation)
 4. Run the application: `php artisan serve`
 
-**Disclaimer**
-
-The Laravel documentation referenced in the previous versions of this README file has been intentionally omitted, as it's not specific to your project. For Laravel-related guidance, you can refer to the official documentation: https://laravel.com/docs/11.x/installation
-
 **Contributing**
 
 We welcome contributions to JBLOGGS! Feel free to open pull requests with improvements or additional features.
